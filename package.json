@@ -1,0 +1,28 @@
+{
+    "name": "eslint-config-thisisclick",
+    "version": "1.0.0",
+    "description": "ESLint configuration for the ThisIsClick project",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/thisisclickstudio/eslint-config-thisisclick.git"
+    },
+    "keywords": ["eslint", "config", "ThisIsClick"],
+    "author": "ThisIsClick Studio",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/jest": "^29.5.2",
+        "@types/react": "^18.2.9",
+        "@typescript-eslint/eslint-plugin": "^5.59.9",
+        "@typescript-eslint/parser": "^5.59.9",
+        "eslint": "^8.42.0",
+        "eslint-config-airbnb": "^19.0.4",
+        "eslint-config-airbnb-typescript": "^17.0.0",
+        "eslint-plugin-import": "^2.27.5",
+        "eslint-plugin-jest": "^27.2.1",
+        "eslint-plugin-jsx-a11y": "^6.7.1",
+        "eslint-plugin-react": "^7.32.2",
+        "eslint-plugin-react-hooks": "^4.6.0",
+        "eslint-plugin-sonarjs": "^0.19.0"
+    }
+  }
+  
